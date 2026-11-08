@@ -17,5 +17,4 @@ see LICENSE and LICENSING.md inside the matching source attachment. Third-party
 components retain their own licenses.
 
 Wi-Fi and native input are experimental. MCP currently requires USB. This beta
-has limited clean-machine and Apple Silicon hardware test coverage. Glint is an
-independent project, not affiliated with Apple, OpenAI or Anthropic.
+has limited clean-machine and Apple Silicon hardware test coverage.
